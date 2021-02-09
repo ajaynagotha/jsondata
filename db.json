@@ -1,16 +1,74 @@
 {
-  "posts": [
+  "users": [
     {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
+      "id": 1,
+      "first_name": "Susana",
+      "last_name": "Mulqueeny",
+      "email": "smulqueeny0@vimeo.com",
+      "gender": "Agender"
+    },
+    {
+      "id": 2,
+      "first_name": "Valaria",
+      "last_name": "Sawney",
+      "email": "vsawney1@sfgate.com",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Golda",
+      "last_name": "Larkcum",
+      "email": "glarkcum2@altervista.org",
+      "gender": "Genderqueer"
+    },
+    {
+      "id": 4,
+      "first_name": "Yank",
+      "last_name": "Goney",
+      "email": "ygoney3@apache.org",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 5,
+      "first_name": "Granthem",
+      "last_name": "Karpenya",
+      "email": "gkarpenya4@prweb.com",
+      "gender": "Agender"
+    },
+    {
+      "id": 6,
+      "first_name": "Jayme",
+      "last_name": "Potteridge",
+      "email": "jpotteridge5@hud.gov",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 7,
+      "first_name": "Lindsy",
+      "last_name": "Loy",
+      "email": "lloy6@ihg.com",
+      "gender": "Non-binary"
+    },
+    {
+      "id": 8,
+      "first_name": "Benjamen",
+      "last_name": "Limpertz",
+      "email": "blimpertz7@prweb.com",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 9,
+      "first_name": "Swen",
+      "last_name": "Sidry",
+      "email": "ssidry8@auda.org.au",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "first_name": "Robinia",
+      "last_name": "Tinn",
+      "email": "rtinn9@hostgator.com",
+      "gender": "Polygender"
+    }
   ]
 }
